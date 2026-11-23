@@ -15,7 +15,7 @@ The program also validates student SAP IDs to ensure that each student has a uni
 |---|---|
 | 1 | Yasharth Chaudhary |
 | 2 | Mayra Bisht |
-| 3 | Yashovardhan |
+| 3 | Yashowardhan |
 
 **Team Number:** [Enter Team Number]  
 **Batch:** [Enter Batch Number]
@@ -429,7 +429,7 @@ The project can be further developed into a complete student attendance manageme
 
 **Project:** Student Attendance Analyzer  
 **Course:** C Programming  
-**Team Members:** Yasharth Chaudhary, Mayra Bisht, Yashovardhan
+**Team Members:** Yasharth Chaudhary, Mayra Bisht, Yashowardhan
 <img width="1157" height="984" alt="Screenshot 2026-11-23 at 7 00 40 PM" src="https://github.com/user-attachments/assets/d27842c4-f7a2-423b-941a-454fe9a171dd" />
 <img width="1192" height="1037" alt="Screenshot 2026-11-23 at 2 47 37 PM" src="https://github.com/user-attachments/assets/7a3fed13-ad6e-429c-85d8-b9f2337a8b4b" />
 <img width="1255" height="1024" alt="Screenshot 2026-11-23 at 7 06 57 PM" src="https://github.com/user-attachments/assets/434de68f-fe05-453b-a08b-b6e78f4dc3a9" />
