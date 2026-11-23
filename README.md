@@ -17,8 +17,8 @@ The program also validates student SAP IDs to ensure that each student has a uni
 | 2 | Mayra Bisht |
 | 3 | Yashowardhan |
 
-**Team Number:** [Enter Team Number]  
-**Batch:** [Enter Batch Number]
+**Team Number:** [TEAM MAYAYA]  
+**Batch:** [44]
 
 ### 3. Problem Statement
 
