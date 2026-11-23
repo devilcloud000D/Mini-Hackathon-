@@ -9,3 +9,4 @@ Requirements:
 3.⁠ ⁠Calculate each student's attendance percentage.
 4.⁠ ⁠Identify students below a specified attendance threshold, such as 75%.
 Expected Output: A student-wise attendance report and a list of students below the attendance threshold.
+<img width="1157" height="984" alt="Screenshot 2026-11-23 at 7 00 40 PM" src="https://github.com/user-attachments/assets/d27842c4-f7a2-423b-941a-454fe9a171dd" />
